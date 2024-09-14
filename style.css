@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+     box-sizing:border-box ;
+
+}
+Body{
+    background-color: black ;
+    font-family:'Karla', sans-serif;
+}
+    .formulário{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+        form{
+        background-color: antiquewhite;
+width: 30vw;
+height: 60vh;
+border-radius: 1em;
+
+        }
